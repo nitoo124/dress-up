@@ -49,7 +49,7 @@ function Header() {
           </ul>
         </nav>
 
-      <FaShoppingCart className="  text-3xl md:mr-10" onClick={ToggleMenu}/>
+      <FaShoppingCart className="  text-3xl md:mr-10"/>
       </div>
 
       {/* Mobile Menu */}
